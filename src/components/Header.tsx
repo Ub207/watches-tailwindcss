@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { FaShoppingCart } from 'react-icons/fa';
+import { FaCartPlus } from 'react-icons/fa';
 import { HiMenuAlt3 } from 'react-icons/hi'; // Hamburger icon
 import { HiX } from 'react-icons/hi'; // Close icon
 
